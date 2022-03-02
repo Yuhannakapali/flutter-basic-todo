@@ -1,6 +1,6 @@
-# flutter_application_1
+# todo application
 
-A new Flutter project.
+A basic to do application with the sqlite as the database.
 
 ## Getting Started
 
